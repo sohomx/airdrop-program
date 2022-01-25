@@ -1,4 +1,6 @@
 # airdrop-program
 Create an airdrop program with Solana web3.js
 
-An airdrop, in the cryptocurrency business, is a marketing stunt that involves sending coins or tokens to wallet addresses in order to promote awareness of a new virtual currency.
+Airdrop refers to the act of sending a cryptocurrency to a wallet, usually for free, to either promote the cryptocurrency or enable developers to test out transactions over the blockchain without spending real money. 
+
+
